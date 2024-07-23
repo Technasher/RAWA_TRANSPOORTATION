@@ -1000,22 +1000,22 @@ header.page-header .main-menu.minified{
 	padding: 0 20px;
 } 
 
-#team, #main_question {
+#team, #main_question, #welcome {
     padding: 100px 0;
     background: #111111;
 }
-.teams-section{
+.teams-section, .welcome-section{
 	position: relative;
 	padding: 10px 0 55px;
 }
 
 
-.teams-section span {
+.teams-section span, .welcome-section span {
 	font-size: 28px;
 }
 
 
-.teams-section h2 span{
+.teams-section h2 span, .welcome-section h2 span{
     
     font-weight: 700;
     font-size: 62px;
@@ -1026,7 +1026,7 @@ header.page-header .main-menu.minified{
     padding: 8px 10px;
 }
 
-.teams-section p{
+.teams-section p, .welcome-section p{
     color: #ffffff;
 }
 
